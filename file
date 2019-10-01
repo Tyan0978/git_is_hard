@@ -6,3 +6,6 @@ print("This is my first push")
 print("This is my second push")
 # good job!
 # fetch test 2
+# fetch test 1
+>>>>>>> refs/remotes/origin/master
+# fetch done
